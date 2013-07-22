@@ -1,4 +1,4 @@
-convert_tracks
+Convert Tracks
 ==============
 
-A simple tool to covert audio tracks
+A simple tool to covert audio tracks.
